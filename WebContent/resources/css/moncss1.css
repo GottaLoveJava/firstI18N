@@ -1,0 +1,17 @@
+    .col-md-12{
+  	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	height: 200px;
+	}
+	
+	.col-md-9{
+	border: 2px solid black;
+	height: 100px;
+	}
+	
+	.col-md-3{
+	border: 2px solid black;
+	height: 100px;
+	}
+	
